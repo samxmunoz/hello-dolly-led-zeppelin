@@ -1,13 +1,11 @@
-=== Hello Dolly ===
-Contributors: matt, wordpressdotorg
+=== Hello Dolly - Led Zeppelin Version // Sam Brockway ===
+Contributors: samxmunoz
 Stable tag: 1.7.2
 Tested up to: 6.1
 Requires at least: 4.6
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
+Adding a few great lines from "Going to California" by Led Zeppelin into your WordPress Dashboard.
 
 == Description ==
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
-
-Thanks to Sanjib Ahmad for the artwork.
+Adding a few great lines from "Going to California" by Led Zeppelin into your WordPress Dashboard.
